@@ -27,5 +27,5 @@ Implementar um sistema simples que demonstre os princ√≠pios da POO, como abstra√
    javac -d bin src/*.java
 5. Execute o programa:
    ```bash
-   java -cp bin Main
+   java -cp bin src/Main
 
