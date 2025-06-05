@@ -1,6 +1,7 @@
+package src;
 public class Pessoa {
-  private String nome;
-  private int idade;
+  protected String nome;
+  protected int idade;
 
   public Pessoa(String nome, int idade) {
     this.nome = nome;
