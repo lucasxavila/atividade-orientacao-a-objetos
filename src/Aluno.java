@@ -16,7 +16,7 @@ public class Aluno extends Pessoa {
   }
 
   public String InfoAluno() {
-    return "Nome: " + nome + "\nIdade" + idade + "\nRA: " + ra + "\nNota1: " + nota1 + 
+    return "Nome: " + nome + "\nIdade: " + idade + "\nRA: " + ra + "\nNota1: " + nota1 + 
            "\nNota2: " + nota2 + "\nNota3: " + nota3 + "\nTotal: " + getNotaTotal();
   }
     
