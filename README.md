@@ -19,3 +19,13 @@ Implementar um sistema simples que demonstre os princípios da POO, como abstra�
 2. Clone este repositório:
    ```bash
    git clone https://github.com/lucasxavila/atividade-orientacao-a-objetos.git
+3. Navegue até o diretório do projeto:
+   ```bash
+   cd atividade-orientacao-a-objetos
+4. Compile os arquivos Java:
+   ```bash
+   javac *.java
+5. Execute o programa:
+   ```bash
+   java Main
+
