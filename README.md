@@ -24,7 +24,7 @@ Implementar um sistema simples que demonstre os princ√≠pios da POO, como abstra√
    cd atividade-orientacao-a-objetos
 4. Compile os arquivos Java:
    ```bash
-   javac *.java
+   javac -d bin src/*.java
 5. Execute o programa:
    ```bash
    java Main
