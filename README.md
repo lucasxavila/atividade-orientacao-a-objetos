@@ -10,8 +10,8 @@ Implementar um sistema simples que demonstre os princípios da POO, como abstra�
 
 - `Pessoa.java`: Classe base que representa uma pessoa, contendo atributos como nome e idade, e métodos relacionados.
 - `Aluno.java`: Classe derivada de `Pessoa`, adicionando atributos específicos como matrícula e curso.
-- `Main.java`: Classe principal que instância objetos de `Pessoa` e `Aluno`, demonstrando a interação entre eles e a aplicação dos conceitos de POO.
 - `App.java`: Classe derivada de pessoa, para apresentação de duas pessoas.
+- `Main.java`: Classe principal que instância objetos de `Pessoa` e `Aluno`, demonstrando a interação entre eles e a aplicação dos conceitos de POO.
 
 ## Como Executar
 
